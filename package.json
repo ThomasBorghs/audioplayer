@@ -4,8 +4,8 @@
   "description": "Audio player",
   "main": "main.js",
   "scripts": {
-	"start": "node main.js",
-	"test": "node test.js"
+	"start": "ts-node main.ts",
+	"test": "ts-node test.js"
   },
   "repository": {
 	"type": "git",
